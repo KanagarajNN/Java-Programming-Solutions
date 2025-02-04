@@ -5,8 +5,8 @@ java-programming-solutions is a collection of Java solutions for algorithms, dat
 
 # Sorting
 ## 1. Bubble Sort
-- Bubble Sort Code
-- Documentation
+- [Bubble Sort Code](sorting/bubble_sort)
+- [Documentation](sorting/bubble_sort/README.md)
 
 ## 2. Insertion Sort
 - Insertion Sort Code
