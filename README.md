@@ -1,4 +1,4 @@
-![Java CI](https://github.com/kanagarajnn/cpp-programming-solutions/actions/workflows/ci-java.yml/badge.svg)
+![Java CI](https://github.com/kanagarajnn/java-programming-solutions/actions/workflows/ci-java.yml/badge.svg)
 
 # Java Programming Solutions
 java-programming-solutions is a collection of Java solutions for algorithms, data structures, coding challenges, and interview problems. Optimized for readability, efficiency, and best practices.
