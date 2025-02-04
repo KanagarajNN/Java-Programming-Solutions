@@ -82,6 +82,21 @@ BubbleSort.printArray(arr);
 Unsorted array: [64, 34, 25, 12, 22, 11, 90]
 Sorted array: [11, 12, 22, 25, 34, 64, 90]
 ```
+## Continuous Integration (CI) with GitHub Actions
+This project is configured with GitHub Actions for automated testing.
+
+## CI/CD Workflow Details:
+- Runs tests automatically on every push and pull request to the main branch.
+- Uses Maven on an Ubuntu runner.
+- Ensures code correctness before merging.
+
+## How to Check CI/CD Status:
+- Push your changes:
+```sh
+$ git push origin main
+```
+- Navigate to your GitHub repository → Actions tab.
+- Check the workflow Java CI to view test results.
 
 ## License
 This project is licensed under the **MIT License**.
